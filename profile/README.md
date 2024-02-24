@@ -11,7 +11,7 @@
 
 ## About
 
-ProjX is a platform for students to build their portfolios through project-based work. Inspired by Fiverr and LinkedIn, companies may contract projects to be completed by prospective students, while students may explore and apply to projects they are interested in. This project was developed by Randy Huang, Tarun Eswar, Erica Dong, and Charles Tang for HackBeanpot 2024 hackathon.
+ProjX is a platform for students to build their portfolios through project-based work. Inspired by Fiverr and LinkedIn, companies may contract projects to be completed by prospective students, while students may explore and apply to projects they are interested in. This project was developed by Randy Huang, Tarun Eswar, Erica Dong, and Charles Tang for the HackBeanpot 2024 hackathon.
 
 ## Current Features
 
