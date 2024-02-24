@@ -4,7 +4,7 @@
   <p align="center">
     Building relationships between students and companies through project-based work.
     <br> 
-    Developed by Boston students for Boston students.
+    Developed by students for students.
     <br>
     <a href="https://projx.web.app" target="_blank">Check out the demo!</a>  </p>
 </p>
