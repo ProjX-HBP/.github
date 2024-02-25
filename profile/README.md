@@ -1,14 +1,14 @@
 <p align="center">
-  <h1 align="center">ProjX</h1>
-  
-<p align="center">
-<img src="public.png"></img>
+<img src="cover-image.png"></img>
 </p>
 
 <p align="center">
-<img src="cover-image.png"></img>
-</p>
-  
+<img src="public.png"></img>
+</p>  
+
+<p align="center">
+  <h1 align="center">ProjX</h1>
+
   <p align="center">
     Building relationships between students and companies through project-based work. Kickstart your career through projects.
     <br> 
